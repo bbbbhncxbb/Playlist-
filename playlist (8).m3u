@@ -1,4 +1,4 @@
-#EXTM3U ARDINESH LIVE TV
+#EXTM3U Spiderman 
 #EXTM3U https://t.me/ardineshLiveTV
 #EXTM3U x-tvg-url="https://live.dinesh29.com.np/epg/jiotvplus/master-epg.xml.gz"
 
@@ -14,7 +14,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/historytv18hd/master.m3u8
 #EXTINF:-1 tvg-id="sonyten5hd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/sonyten5hd.png" group-title="Sports",Sony Ten 5 HD
 https://live.dinesh29.com.np/stream/jiotvplus/sonyten5hd/master.m3u8
 
-#EXTINF:-1 tvg-id="stargoldhd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldhd.png" group-title="Movies",Star Gold HD
+#EXTINF:-1 tvg-id="stargoldhd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/stargoldhd.png" group-title="Movies By Spiderman",Star Gold HD
 https://live.dinesh29.com.np/stream/jiotvplus/stargoldhd/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyten1hd" tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/sonyten1hd.png" group-title="Sports",Sony Ten 1 HD
