@@ -1,3 +1,10 @@
 #EXTM3U
-#EXTINF:-1, Motu Patlu Direct Stream (Temporary)
+
+#EXTINF:-1, Motlu Patlu Episode (YouTube)
+https://youtu.be/bKPGnQ6dP2w
+
+#EXTINF:-1, Motlu Patlu Direct Stream (Temporary)
 https://rr1---sn-hog-qxal.googlevideo.com/videoplayback?expire=1757972927&ei=XzXIaJfFDdKT4t4P2YfZoQg&ip=103.79.168.112&id=o-ABkUHDiJPxf_nFgCgTwC6e7FJV0HmLBLYxgOEn6xyBAO&itag=399&source=youtube&requiressl=yes&mime=video%2Fmp4&clen=105179210&dur=703.866
+
+#EXTINF:-1, Kiddo (Sofast / Yupptv)
+https://streams2.sofast.tv/ptnr-yupptv/title-KIDDO-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/5bcf9d24-04f2-401d-a93f-7af54f29461a/2c2d8476-860c-4d27-b49f-5582f5c809c0/1.m3u8
